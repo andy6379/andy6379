@@ -18,7 +18,7 @@
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=goland&logoColor=white)
+![](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## Web
 ### Frontend
@@ -26,7 +26,7 @@
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-![](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=goland&logoColor=white)
+![](https://img.shields.io/badge/-GO-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ## Database
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -41,6 +41,7 @@
 ![](https://img.shields.io/badge/-elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/-goland-000000?style=for-the-badge&logo=goland&logoColor=white)
 ![](https://img.shields.io/badge/-adobe%20Xd-FF61F6?style=for-the-badge&logo=adobeXd&logoColor=white)
 ![](https://img.shields.io/badge/-adoben%20auditio-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white)
 ![](https://img.shields.io/badge/-adobe%20illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
