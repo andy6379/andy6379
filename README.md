@@ -45,6 +45,6 @@
 ![](https://img.shields.io/badge/-adobe%20Xd-FF61F6?style=for-the-badge&logo=adobeXd&logoColor=white)
 ![](https://img.shields.io/badge/-adoben%20auditio-9999FF?style=for-the-badge&logo=adobeaudition&logoColor=white)
 ![](https://img.shields.io/badge/-adobe%20illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white)
+![](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![](https://img.shields.io/badge/-Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white)
